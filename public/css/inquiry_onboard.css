@@ -1,0 +1,18 @@
+form{
+	border: 1px solid #cccc;
+	padding: 5px;
+	border-radius: 10px;
+	margin-top: 5%;
+	background-color: whitesmoke;
+}
+
+body {
+	background-image: url('/images/back.jpg');
+	background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#container{
+	background-color: aliceblue;
+	margin-top: 5%;
+}
